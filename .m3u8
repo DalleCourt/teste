@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Canal Teste
-https:///www.band.uol.com.br//stream/teste.m3u8
+
+#EXTINF:-1 tvg-id="tvcultura" tvg-name="TV Cultura" group-title="TV Aberta",TV Cultura
+https://video.cdn.iol.com.br/live/cultura.m3u8
